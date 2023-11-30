@@ -1,0 +1,26 @@
+#header{
+	background-color: #cda4de;
+	color: white;
+	text-align: center;
+	font-size: 30px;
+}
+#section1{
+    text-align: center;
+    background-color: #7fc7ff;
+    color: #7851a9;
+    font-size: 30px;
+}
+#section2{
+	text-align: left;
+	background-color: #9370d8;
+	color: black;
+	font-size: 30px;
+}
+#section3{
+	background-color: darkgrey;
+}
+#footer{
+	background-color: black;
+	color: white;
+	text-align: center;
+}
